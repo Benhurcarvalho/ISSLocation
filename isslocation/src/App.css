@@ -48,11 +48,11 @@ body {
   /* top:-75px;
   left:-100px; */
 
-  -webkit-animation: rodaroda 3s linear alternate 3;
-  -moz-animation: rodaroda 3.0s linear infinite;
-  -ms-animation: rodaroda 3.0s linear infinite;
-  -o-animation: rodaroda 3.0s linear infinite;
-  animation: rodaroda 3.0s linear infinite;
+  -webkit-animation: rodaroda 7s linear alternate 7;
+  -moz-animation: rodaroda 7.0s linear infinite;
+  -ms-animation: rodaroda 7.0s linear infinite;
+  -o-animation: rodaroda 7.0s linear infinite;
+  animation: rodaroda 7.0s linear infinite;
 }
 
 @-webkit-keyframes rodaroda {

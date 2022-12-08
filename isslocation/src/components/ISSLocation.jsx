@@ -3,6 +3,8 @@ import Map, { Marker } from 'pigeon-maps';
 
 class ISSLocation extends Component {
   render() {
+    const latitude = 0;
+    const longitude = 0;
     return (
       <main>
         <img className='ISSimg' src="https://img.icons8.com/external-flat-berkahicon/64/null/external-Satellite-astronomy-flat-berkahicon.png" alt=''/>
@@ -17,7 +19,7 @@ class ISSLocation extends Component {
             >
                 <Marker 
                 
-                anchor={ [0,0] } />
+                anchor={ [latitude,longitude] } />
             </ Map>
 
         </div>

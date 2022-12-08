@@ -31,6 +31,17 @@ body {
   height: 150px;
 }
 
+.footer {
+  background: #16181b;
+  width: 100%;
+  padding: 20px;
+}
+
+.footer a {
+  color: aliceblue;
+  text-decoration: none;
+}
+
 .ISSimg {
   transform: rotate(-15deg);
   position:relative;

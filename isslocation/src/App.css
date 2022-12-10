@@ -45,8 +45,8 @@ body {
 .ISSimg {
   transform: rotate(-15deg);
   position:relative;
-  /* top:-75px;
-  left:-100px; */
+  top: 30px;
+  z-index: 1;
 
   -webkit-animation: rodaroda 7s linear alternate 7;
   -moz-animation: rodaroda 7.0s linear infinite;
